@@ -1,0 +1,11 @@
+Ben Cardin,Maryland,Democratic
+Ed Markey,Massachusetts,Democratic
+Elizabeth Warren,Massachusetts,Democratic
+Gary Peters,Michigan,Democratic
+Debbie Stabenow,Michigan,Democratic
+Tina Smith,Minnesota,Democratic
+Amy Klobuchar,Minnesota,Democratic
+Cindy Hyde-Smith,Mississippi,Republican
+Roger Wicker,Mississippi,Republican
+Roy Blunt,Missouri,Republican
+Josh Hawley,Missouri,Republican

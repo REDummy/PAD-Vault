@@ -1,0 +1,7 @@
+Tom Cotton,Arkansas,Republican
+Dianne Feinstein,California,Democratic
+Dick Durbin,Illinois,Democratic
+Todd Young,Indiana,Republican
+Angus King,Maine,Independent
+Susan Collins,Maine,Republican
+Chris Van Hollen,Maryland,Democratic

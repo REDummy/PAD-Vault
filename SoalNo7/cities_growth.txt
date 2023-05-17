@@ -1,0 +1,25 @@
+Austin,99.20%
+San Antonio,79.65%
+Phoenix,65.47%
+Fort Worth,42.66%
+Seattle,28.82%
+Charlotte,26.57%
+San Francisco,23.22%
+Boston,20.64%
+Nashville-Davidson,20.52%
+Denver,16.82%
+Washington,16.12%
+El Paso,15.80%
+Houston,14.87%
+Indianapolis,14.12%
+San Jose,13.67%
+Jacksonville,12.21%
+Columbus,8.01%
+Dallas,5.74%
+Los Angeles,5.26%
+San Diego,3.94%
+New York,3.25%
+Chicago,-1.03%
+Memphis,-1.90%
+Philadelphia,-2.50%
+Detroit,-22.19%
